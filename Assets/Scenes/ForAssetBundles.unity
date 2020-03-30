@@ -432,7 +432,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae27d0793735f5f4e9b56170bfb5edf1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MyUrl: C:\Users\Hi-Tech\Desktop\AssetBundles\content
+  Url: C:\AssetBundles\content
 --- !u!1 &1549129982
 GameObject:
   m_ObjectHideFlags: 0
