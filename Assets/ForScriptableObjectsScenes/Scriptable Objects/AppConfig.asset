@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e65b9b38c324cd54cbe6c9b651941cff, type: 3}
+  m_Name: AppConfig
+  m_EditorClassIdentifier: 
+  AppName: Tasks 3
+  AppVersion: 0.0.1
+  ListOfPlayers:
+  - {fileID: 11400000, guid: c27cfce46c2590d41afebb77c9a5f0e1, type: 2}
+  - {fileID: 11400000, guid: af6da064895ce3645a97a4157f131391, type: 2}
