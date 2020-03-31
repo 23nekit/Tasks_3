@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3966292279
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 610f8f31585ee6e896c2afaf65fb4cba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d8b7fb73b53012c0b47b74b955b605a4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ForAssetBundles/Prefabs/Render.prefab
+Dependencies: []

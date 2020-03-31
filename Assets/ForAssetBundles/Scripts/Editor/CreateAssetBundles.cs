@@ -8,6 +8,6 @@ public class CreateAssetBundles : Editor
     [MenuItem("Assets/Build AssetBundles")]
     static void BuildAssetBundles()
     {
-        BuildPipeline.BuildAssetBundles(@"C:\AssetBundles", BuildAssetBundleOptions.ChunkBasedCompression, BuildTarget.StandaloneWindows64);
+        BuildPipeline.BuildAssetBundles("Assets/ForAssetBundles/AssetBundles", BuildAssetBundleOptions.ChunkBasedCompression, BuildTarget.StandaloneWindows64);
     }
 }
